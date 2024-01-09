@@ -1,5 +1,5 @@
 # SONG: Synergetic Learning System based on Swarm of Non-Gradient Learners
-We present a synergetic learning system based on swarm of non-gradient learners (SONG). The proposed learning system is constructed based on the synergies of flocks of lightweight, efficient, scalable base components. Inspired by the process of 'evolution and selection', our approach constructs systems in a data-driven manner, commencing from simplicity and progressively advancing towards complexity, simplifying both architecture design and hyperparameter tuning.
+We present a synergetic learning system based on swarm of non-gradient learners (SONG). The proposed learning system is constructed based on the synergies of flocks of lightweight, efficient, scalable base components. Inspired by the process of 'evolution and selection', our approach constructs systems in a data-driven manner, commencing from simplicity and progressively advancing towards complexity. This strategy not only accelerates the training of complex learning systems but also streamlines the architecture design and hyperparameter tuning.
 
 ## Getting started
 ### Install
